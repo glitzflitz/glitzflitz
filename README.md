@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - ⚙️ I primarily use Rust, C, Python and Go
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: 
-  <a href="https://twitter.com/glitzflitz"><img height="30" src="https://github.com/glitzflitz/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ameynarkhede/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+  <a href="https://twitter.com/glitzflitz"><img height="18" src="https://github.com/glitzflitz/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ameynarkhede/"><img height="18" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
