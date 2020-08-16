@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #### I'm a Systems Software Developer mainly intersted in virtualization 
 - 🏢 I'm actively seeking full time job opportunities
-- ⚙️ I primarily use Rust, C, Python and Go
+- ⚙️ I primarily use Rust, C, and Python
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: 
   <a href="https://twitter.com/glitzflitz"><img height="18" src="https://github.com/glitzflitz/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
