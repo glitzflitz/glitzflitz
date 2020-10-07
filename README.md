@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### I'm a recent college grad mainly intersted in virtualization 
+#### I'm a recent CS grad mainly intersted in virtualization 
 - 🏢 I'm actively seeking full time job opportunities
 - ⚙️ I primarily use Rust, C, and Python
 - 🌱 Learning all about **Open Source**
