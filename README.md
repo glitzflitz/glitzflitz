@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### I'm a recent CS grad who is mainly intersted in virtualization and emulation
-- 🏢 I'm actively seeking full time job opportunities
 - ⚙️ I primarily use Rust, C, and Python
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: 
