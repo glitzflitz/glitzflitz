@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### I'm a recent CS grad who is mainly intersted in virtualization and emulation
+#### I'm a SDE who is mainly intersted in virtualization and emulation
 - ⚙️ I primarily use Rust, C, and Python
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: 
