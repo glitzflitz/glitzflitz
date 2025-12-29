@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### I'm a SDE who is mainly intersted in virtualization and emulation
-- ⚙️ I primarily use Rust, C, and Python
+- ⚙️ I primarily use C and Python
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: 
   <a href="https://twitter.com/glitzflitz"><img height="18" src="https://github.com/glitzflitz/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
